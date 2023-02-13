@@ -12,7 +12,8 @@
       astrophysical,
       geographic information systems SIG.
       
-     ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Veflo13&theme=blue-green&langs_count=10)  
+     ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=veflo13&theme=blue-green&langs_count=10) 
+     
      ![Profile View Counter](https://komarev.com/ghpvc/?username=veflo13)
       
   
