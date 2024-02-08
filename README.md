@@ -5,8 +5,7 @@
       geotechnical, 
       math. 
       
-- 🌱 I’m currently learning: 
-      fullStack web developer
+- 🌱 I have reinvented myself and now I work in Bi & Big Data at NTTDATA. python|pyspark|datagov 
       
 - 🏓 Hobbies:
       astrophysical,
